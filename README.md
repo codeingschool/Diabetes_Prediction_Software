@@ -6,6 +6,8 @@ You need to install:
 2.	pip3 install pywin32 (Linux or Mac)
 If this is not working, then try both pip install pywin32 and pip install pypiwin32
 3.	pip install sklearn
+4.  pip install pandas
+5.  pip install matplotlib
 
 Download this, and put into a same folder.
 
