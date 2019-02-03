@@ -12,7 +12,8 @@ If this is not working, then try both pip install pywin32 and pip install pypiwi
 Download this, and put into a same folder.
 
 Open jupyter notebook on this folder.
-Then run the "Diabetes_Prediction_Software.ipynb"
+Then run the "Diabetes_Prediction_Software.ipynb" or diabetes prediction software.py (use any ide for .py)
+
 Enter values for prediction
 
 If you want to watch prediction time, graphs, etc. Then run the “knn.py”
